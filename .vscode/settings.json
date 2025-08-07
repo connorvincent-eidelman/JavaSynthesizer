@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib/jVSTeXamples-1.0beta-javadoc.jar",
+        "lib/jVSTsYstem-1.0beta-javadoc.jar",
+        "lib/jVSTwRapper-1.0beta-javadoc.jar",
+        "lib/lwjgl-javadoc.jar",
+        "lib/lwjgl-natives-macos-arm64.jar",
+        "lib/lwjgl-openal-javadoc.jar",
+        "lib/lwjgl-openal-natives-macos-arm64.jar",
+        "lib/lwjgl-openal-sources.jar",
+        "lib/lwjgl-openal.jar",
+        "lib/lwjgl.jar",
+        "lib/lwjgl-sources.jar"
+    ],
+    "git.ignoreLimitWarning": true,
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
