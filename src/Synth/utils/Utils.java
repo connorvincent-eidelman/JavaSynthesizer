@@ -1,20 +1,12 @@
 package Synth.utils;
 
-import static java.lang.Math.*;
-
+import Synth.SynthControlContainer;
 import java.awt.*;
 import java.awt.event.*;
-
+import java.awt.image.BufferedImage;
+import static java.lang.Math.*;
 import javax.swing.BorderFactory;
 import javax.swing.border.Border;
-
-import Synth.SynthControlContainer;
-
-import java.awt.Point;
-import java.awt.Toolkit;
-
-import java.awt.Cursor;
-import java.awt.image.BufferedImage;
 
 public class Utils {
     public static void handleProcedure(Procedure procedure, boolean printStackTrace) { // automates the printing of a
